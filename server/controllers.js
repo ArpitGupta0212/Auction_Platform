@@ -1,4 +1,4 @@
-//controllers.js
+
 
 const { User, ItemCategory, Product } = require('./models');
 
